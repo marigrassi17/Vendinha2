@@ -30,7 +30,7 @@ Sistema desktop desenvolvido em C# utilizando Windows Forms e SQLite para contro
 1. Clone o repositório
 
 ```bash
-git clone ```
+git clone https://github.com/marigrassi17/Vendinha2.git ```
 
 2. Abra o projeto no Visual Studio 2022
 
